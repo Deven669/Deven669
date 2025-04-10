@@ -15,4 +15,4 @@ I build responsive and functional websites with modern technologies. Passionate 
 
 ## 📫 Connect with Me  
 - 💼 [LinkedIn](https://linkedin.com/in/Deven669)  
-- 📧 Email: deven.gerrard@gmail.com  
+- 📧 Email: devenloper.business@gmail.com  
