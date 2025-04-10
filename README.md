@@ -15,4 +15,8 @@ I build responsive and functional websites with modern technologies. Passionate 
 
 ## 📫 Connect with Me  
 - 💼 [LinkedIn](https://linkedin.com/in/Deven669)  
-- 📧 Email: devenloper.business@gmail.com  
+- 📧 Email: devenloper.business@gmail.com
+- 🐙 [GitHub](https://github.com/devenloper)  
+- 📘 [Facebook](https://facebook.com/devenloper)  
+- 🐦 [Twitter / X](https://twitter.com/devenloper)
+
